@@ -1,3 +1,9 @@
+# pdf
+*.pdf
+
+#vs code
+*.code-workspace
+
 # Prerequisites
 *.d
 
