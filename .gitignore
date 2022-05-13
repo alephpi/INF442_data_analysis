@@ -4,6 +4,9 @@
 #vs code
 *.code-workspace
 
+# debug_code
+*.json
+
 # Prerequisites
 *.d
 
