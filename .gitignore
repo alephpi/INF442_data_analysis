@@ -1,6 +1,9 @@
 # pdf
 *.pdf
 
+# zip file
+*.zip
+
 #vs code
 *.code-workspace
 
